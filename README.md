@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Jacob 👋
 
-<!--
-**DeltaOrion/DeltaOrion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+![Introduction Hero](./Github-Background-image.PNG)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a software engineer working at Jaegersoft and Studying at the University of Newcastle. I love working on developing Minecraft Servers and Websites. Some technologies I enjoy using a Java, C#, Typescript, SQL and GraphQL. 
+
+Find me around the web 🌎
+
+---
+
+- LinkedIn: ![https://www.linkedin.com/in/jacob-boyce-931990248/](https://www.linkedin.com/in/jacob-boyce-931990248/)
+- Discord: DeltaOrion#7336
