@@ -6,7 +6,7 @@
 
 I'm a software engineer working at Jaegersoft and Studying at the University of Newcastle. I love working on developing Minecraft Servers and Websites. Some technologies I enjoy using a Java, C#, Typescript, SQL and GraphQL. 
 
-Find me around the web 🌎
+### Find me around the web 🌎
 
 ---
 
