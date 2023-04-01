@@ -10,5 +10,5 @@ I'm a software engineer working at Jaegersoft and Studying at the University of 
 
 ---
 
-- LinkedIn: ![https://www.linkedin.com/in/jacob-boyce-931990248/](https://www.linkedin.com/in/jacob-boyce-931990248/)
+- LinkedIn: [https://www.linkedin.com/in/jacob-boyce-931990248/](https://www.linkedin.com/in/jacob-boyce-931990248/)
 - Discord: DeltaOrion#7336
